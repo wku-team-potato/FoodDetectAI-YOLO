@@ -3,7 +3,7 @@ import cv2
 from ultralytics import YOLO
 
 # 모델 로드 (경로 수정)
-model_path = "runs/detect/food_detect_yolov8n5/weights/best.pt"
+model_path = "weights/yolov8l_tiny_640_50.pt"
 model = YOLO(model_path)
 
 # 테스트할 이미지 파일 (경로 수정)
