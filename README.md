@@ -8,7 +8,7 @@
 ## 📊 Result
 ### yolov8l_tiny_640_50.pt
 ![yolov8l_tiny_640_50.pt](assets/yolov8l_tiny_640_50_result.png)
----
+
 ### **성능 평가 지표**  
 | Metric | 최종값 (Epoch 50) |
 |------------|-------------|
@@ -16,6 +16,6 @@
 | **Recall (재현율)** | **0.8301** |
 | **mAP@50 (정확도)** | **0.8879** |
 | **mAP@50-95 (정확도)** | **0.7728** |
----
+
 ### 결과
 |![](assets/example.png)|![](assets/example_2.png)|
